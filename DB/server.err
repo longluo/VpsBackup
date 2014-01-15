@@ -1,0 +1,1375 @@
+130909 11:40:22 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130909 11:40:22 InnoDB: The InnoDB memory heap is disabled
+130909 11:40:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130909 11:40:22 InnoDB: Compressed tables use zlib 1.2.6
+130909 11:40:22 InnoDB: Initializing buffer pool, size = 16.0M
+130909 11:40:23 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file /usr/local/mysql/var/ibdata1 did not exist:
+InnoDB: a new database to be created!
+130909 11:40:23  InnoDB: Setting file /usr/local/mysql/var/ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+130909 11:40:23  InnoDB: Log file /usr/local/mysql/var/ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file /usr/local/mysql/var/ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+130909 11:40:23  InnoDB: Log file /usr/local/mysql/var/ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file /usr/local/mysql/var/ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+130909 11:40:23  InnoDB: Waiting for the background threads to start
+130909 11:40:24 InnoDB: 1.1.8 started; log sequence number 0
+130909 11:40:24 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130909 11:40:24 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130909 11:40:24 [Note] Server socket created on IP: '0.0.0.0'.
+130909 11:40:24 [Note] Event Scheduler: Loaded 0 events
+130909 11:40:24 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130909 11:40:25 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130909 11:40:25 [Note] Event Scheduler: Purging the queue. 0 events
+130909 11:40:25  InnoDB: Starting shutdown...
+130909 11:40:26  InnoDB: Shutdown completed; log sequence number 1595675
+130909 11:40:26 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130909 11:40:26 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130909 11:40:27 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130909 11:40:27 InnoDB: The InnoDB memory heap is disabled
+130909 11:40:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130909 11:40:27 InnoDB: Compressed tables use zlib 1.2.6
+130909 11:40:27 InnoDB: Initializing buffer pool, size = 16.0M
+130909 11:40:27 InnoDB: Completed initialization of buffer pool
+130909 11:40:27 InnoDB: highest supported file format is Barracuda.
+130909 11:40:27  InnoDB: Waiting for the background threads to start
+130909 11:40:28 InnoDB: 1.1.8 started; log sequence number 1595675
+130909 11:40:28 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130909 11:40:28 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130909 11:40:28 [Note] Server socket created on IP: '0.0.0.0'.
+130909 11:40:28 [Note] Event Scheduler: Loaded 0 events
+130909 11:40:28 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130909 11:40:29 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130909 11:40:29 [Note] Event Scheduler: Purging the queue. 0 events
+130909 11:40:29  InnoDB: Starting shutdown...
+130909 11:40:30  InnoDB: Shutdown completed; log sequence number 1595675
+130909 11:40:30 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130909 11:40:30 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130909 11:52:59 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130909 11:52:59 InnoDB: The InnoDB memory heap is disabled
+130909 11:52:59 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130909 11:52:59 InnoDB: Compressed tables use zlib 1.2.6
+130909 11:52:59 InnoDB: Initializing buffer pool, size = 16.0M
+130909 11:52:59 InnoDB: Completed initialization of buffer pool
+130909 11:52:59 InnoDB: highest supported file format is Barracuda.
+130909 11:53:00  InnoDB: Waiting for the background threads to start
+130909 11:53:01 InnoDB: 1.1.8 started; log sequence number 1595675
+130909 11:53:01 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130909 11:53:01 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130909 11:53:01 [Note] Server socket created on IP: '0.0.0.0'.
+130909 11:53:01 [Note] Event Scheduler: Loaded 0 events
+130909 11:53:01 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130909 12:31:26 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130909 12:31:26 [Note] Event Scheduler: Purging the queue. 0 events
+130909 12:31:26  InnoDB: Starting shutdown...
+130909 12:31:26  InnoDB: Shutdown completed; log sequence number 1595675
+130909 12:31:26 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130909 12:31:26 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130909 12:31:34 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130909 12:31:34 InnoDB: The InnoDB memory heap is disabled
+130909 12:31:34 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130909 12:31:34 InnoDB: Compressed tables use zlib 1.2.6
+130909 12:31:34 InnoDB: Initializing buffer pool, size = 16.0M
+130909 12:31:34 InnoDB: Completed initialization of buffer pool
+130909 12:31:34 InnoDB: highest supported file format is Barracuda.
+130909 12:31:34  InnoDB: Waiting for the background threads to start
+130909 12:31:35 InnoDB: 1.1.8 started; log sequence number 1595675
+130909 12:31:35 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130909 12:31:35 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130909 12:31:35 [Note] Server socket created on IP: '0.0.0.0'.
+130909 12:31:35 [Note] Event Scheduler: Loaded 0 events
+130909 12:31:35 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130909 15:25:25 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130909 15:25:25 [Note] Event Scheduler: Purging the queue. 0 events
+130909 15:25:25  InnoDB: Starting shutdown...
+130909 15:25:25  InnoDB: Shutdown completed; log sequence number 1595675
+130909 15:25:25 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130909 15:25:25 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130909 15:25:33 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130909 15:25:33 InnoDB: The InnoDB memory heap is disabled
+130909 15:25:33 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130909 15:25:33 InnoDB: Compressed tables use zlib 1.2.6
+130909 15:25:33 InnoDB: Initializing buffer pool, size = 16.0M
+130909 15:25:33 InnoDB: Completed initialization of buffer pool
+130909 15:25:33 InnoDB: highest supported file format is Barracuda.
+130909 15:25:33  InnoDB: Waiting for the background threads to start
+130909 15:25:34 InnoDB: 1.1.8 started; log sequence number 1595675
+130909 15:25:34 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130909 15:25:34 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130909 15:25:34 [Note] Server socket created on IP: '0.0.0.0'.
+130909 15:25:34 [Note] Event Scheduler: Loaded 0 events
+130909 15:25:34 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130910  1:07:27 [Warning] IP address '222.189.238.71' could not be resolved: Name or service not known
+130913 11:27:56 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130913 11:27:56 [Note] Event Scheduler: Purging the queue. 0 events
+130913 11:27:57  InnoDB: Starting shutdown...
+130913 11:27:58  InnoDB: Waiting for 6 pages to be flushed
+130913 11:27:58  InnoDB: Shutdown completed; log sequence number 6456667
+130913 11:27:58 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130913 11:27:58 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130913 11:28:07 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130913 11:28:07 InnoDB: The InnoDB memory heap is disabled
+130913 11:28:07 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130913 11:28:07 InnoDB: Compressed tables use zlib 1.2.6
+130913 11:28:07 InnoDB: Initializing buffer pool, size = 16.0M
+130913 11:28:07 InnoDB: Completed initialization of buffer pool
+130913 11:28:07 InnoDB: highest supported file format is Barracuda.
+130913 11:28:07  InnoDB: Waiting for the background threads to start
+130913 11:28:08 InnoDB: 1.1.8 started; log sequence number 6456667
+130913 11:28:08 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130913 11:28:08 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130913 11:28:08 [Note] Server socket created on IP: '0.0.0.0'.
+130913 11:28:09 [Note] Event Scheduler: Loaded 0 events
+130913 11:28:09 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130913 16:54:18 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+130913 16:54:18 [Note] Event Scheduler: Purging the queue. 0 events
+130913 16:54:18  InnoDB: Starting shutdown...
+130913 16:54:19  InnoDB: Shutdown completed; log sequence number 6981037
+130913 16:54:19 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+130913 16:54:19 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130913 16:54:30 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130913 16:54:30 InnoDB: The InnoDB memory heap is disabled
+130913 16:54:30 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130913 16:54:30 InnoDB: Compressed tables use zlib 1.2.6
+130913 16:54:30 InnoDB: Initializing buffer pool, size = 16.0M
+130913 16:54:30 InnoDB: Completed initialization of buffer pool
+130913 16:54:30 InnoDB: highest supported file format is Barracuda.
+130913 16:54:30  InnoDB: Waiting for the background threads to start
+130913 16:54:31 InnoDB: 1.1.8 started; log sequence number 6981037
+130913 16:54:31 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130913 16:54:31 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130913 16:54:31 [Note] Server socket created on IP: '0.0.0.0'.
+130913 16:54:31 [Note] Event Scheduler: Loaded 0 events
+130913 16:54:31 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+130915 21:28:45 mysqld_safe Number of processes running now: 0
+130915 21:28:45 mysqld_safe mysqld restarted
+130915 21:28:46 InnoDB: The InnoDB memory heap is disabled
+130915 21:28:46 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130915 21:28:46 InnoDB: Compressed tables use zlib 1.2.6
+130915 21:28:46 InnoDB: Initializing buffer pool, size = 16.0M
+130915 21:28:46 InnoDB: Completed initialization of buffer pool
+130915 21:28:47 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130915 21:28:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Last MySQL binlog file position 0 2712616, file name ./mysql-bin.000009
+130915 21:28:47  InnoDB: Waiting for the background threads to start
+130915 21:28:48 InnoDB: 1.1.8 started; log sequence number 12817340
+130915 21:28:48 [Note] Recovering after a crash using mysql-bin
+130915 21:28:48 [Note] Starting crash recovery...
+130915 21:28:48 [Note] Crash recovery finished.
+130915 21:28:48 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130915 21:28:48 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130915 21:28:48 [Note] Server socket created on IP: '0.0.0.0'.
+130915 21:28:49 [Note] Event Scheduler: Loaded 0 events
+130915 21:28:49 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+130915 22:15:22 mysqld_safe Number of processes running now: 0
+130915 22:15:22 mysqld_safe mysqld restarted
+130915 22:15:24 InnoDB: The InnoDB memory heap is disabled
+130915 22:15:24 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130915 22:15:24 InnoDB: Compressed tables use zlib 1.2.6
+130915 22:15:24 InnoDB: Initializing buffer pool, size = 16.0M
+130915 22:15:24 InnoDB: Completed initialization of buffer pool
+Killed
+130915 22:15:25 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+130915 22:16:59 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+130915 22:16:59 InnoDB: The InnoDB memory heap is disabled
+130915 22:16:59 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130915 22:16:59 InnoDB: Compressed tables use zlib 1.2.6
+130915 22:16:59 InnoDB: Initializing buffer pool, size = 16.0M
+130915 22:16:59 InnoDB: Completed initialization of buffer pool
+130915 22:16:59 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130915 22:17:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Last MySQL binlog file position 0 4454, file name ./mysql-bin.000010
+130915 22:17:00  InnoDB: Waiting for the background threads to start
+130915 22:17:01 InnoDB: 1.1.8 started; log sequence number 12827026
+130915 22:17:01 [Note] Recovering after a crash using mysql-bin
+130915 22:17:01 [Note] Starting crash recovery...
+130915 22:17:01 [Note] Crash recovery finished.
+130915 22:17:01 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130915 22:17:01 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130915 22:17:01 [Note] Server socket created on IP: '0.0.0.0'.
+130915 22:17:01 [Note] Event Scheduler: Loaded 0 events
+130915 22:17:01 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+Killed
+130915 22:31:01 mysqld_safe Number of processes running now: 0
+130915 22:31:01 mysqld_safe mysqld restarted
+130915 22:31:01 InnoDB: The InnoDB memory heap is disabled
+130915 22:31:01 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130915 22:31:01 InnoDB: Compressed tables use zlib 1.2.6
+130915 22:31:01 InnoDB: Initializing buffer pool, size = 16.0M
+130915 22:31:01 InnoDB: Completed initialization of buffer pool
+130915 22:31:01 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+130915 22:31:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Last MySQL binlog file position 0 1321, file name ./mysql-bin.000011
+130915 22:31:01  InnoDB: Waiting for the background threads to start
+130915 22:31:02 InnoDB: 1.1.8 started; log sequence number 12827851
+130915 22:31:02 [Note] Recovering after a crash using mysql-bin
+130915 22:31:02 [Note] Starting crash recovery...
+130915 22:31:02 [Note] Crash recovery finished.
+130915 22:31:02 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+130915 22:31:02 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+130915 22:31:02 [Note] Server socket created on IP: '0.0.0.0'.
+130915 22:31:02 [Note] Event Scheduler: Loaded 0 events
+130915 22:31:02 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+130920 23:30:48 [Warning] IP address '112.124.56.228' could not be resolved: Name or service not known
+130921  9:21:07 [Warning] IP address '112.124.55.34' could not be resolved: Name or service not known
+130922 10:12:01 [Warning] IP address '222.186.24.18' could not be resolved: Name or service not known
+130924  0:08:30 [Warning] IP address '122.70.133.202' could not be resolved: Name or service not known
+130925 13:30:07 [Warning] IP address '125.64.94.220' could not be resolved: Name or service not known
+130925 20:50:53 [Warning] IP address '61.136.59.15' could not be resolved: Name or service not known
+130925 22:28:29 [Note] Hostname 'cncln.online.ln.cn' does not resolve to '218.60.54.18'.
+130925 22:28:29 [Note] Hostname 'cncln.online.ln.cn' has the following IP addresses:
+130925 22:28:29 [Note]  - 60.19.29.21
+
+130926 19:19:20 [Note] Hostname 's2.turbinemedia.com' does not resolve to '64.191.84.254'.
+130926 19:19:20 [Note] Hostname 's2.turbinemedia.com' has the following IP addresses:
+130926 19:19:20 [Note]  - 173.231.151.58
+
+130926 21:01:31 [Warning] IP address '116.55.226.206' has been resolved to the host name '206.226.55.116.broad.km.yn.dynamic.163data.com.cn', which resembles IPv4-address itself.
+130927 12:14:20 [Warning] IP address '60.191.145.130' could not be resolved: Name or service not known
+130929 13:02:58 [Warning] IP address '119.147.138.26' could not be resolved: Name or service not known
+131004 07:11:52 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131004  7:11:53 InnoDB: The InnoDB memory heap is disabled
+131004  7:11:53 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131004  7:11:53 InnoDB: Compressed tables use zlib 1.2.6
+131004  7:11:53 InnoDB: Initializing buffer pool, size = 16.0M
+131004  7:11:53 InnoDB: Completed initialization of buffer pool
+131004  7:11:53 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+131004  7:11:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Last MySQL binlog file position 0 11368618, file name ./mysql-bin.000012
+131004  7:11:53  InnoDB: Waiting for the background threads to start
+131004  7:11:54 InnoDB: 1.1.8 started; log sequence number 53840803
+131004  7:11:54 [Note] Recovering after a crash using mysql-bin
+131004  7:11:55 [Note] Starting crash recovery...
+131004  7:11:55 [Note] Crash recovery finished.
+131004  7:11:55 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131004  7:11:55 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131004  7:11:55 [Note] Server socket created on IP: '0.0.0.0'.
+131004  7:11:55 [Note] Event Scheduler: Loaded 0 events
+131004  7:11:55 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131004 10:47:08 [Warning] IP address '58.30.219.41' could not be resolved: Name or service not known
+131007 22:42:04 [Warning] IP address '122.224.97.19' could not be resolved: Name or service not known
+131018  0:35:50 [Warning] IP address '58.221.45.160' could not be resolved: Name or service not known
+131021  1:30:23 [Warning] IP address '61.147.107.105' could not be resolved: Name or service not known
+131026 14:18:55 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131026 14:18:55 [Note] Event Scheduler: Purging the queue. 0 events
+131026 14:18:55  InnoDB: Starting shutdown...
+131026 14:18:56  InnoDB: Shutdown completed; log sequence number 130675349
+131026 14:18:56 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131026 14:18:56 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131026 14:19:08 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131026 14:19:08 InnoDB: The InnoDB memory heap is disabled
+131026 14:19:08 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131026 14:19:08 InnoDB: Compressed tables use zlib 1.2.6
+131026 14:19:08 InnoDB: Initializing buffer pool, size = 16.0M
+131026 14:19:08 InnoDB: Completed initialization of buffer pool
+131026 14:19:09 InnoDB: highest supported file format is Barracuda.
+131026 14:19:09  InnoDB: Waiting for the background threads to start
+131026 14:19:10 InnoDB: 1.1.8 started; log sequence number 130675349
+131026 14:19:10 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131026 14:19:10 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131026 14:19:10 [Note] Server socket created on IP: '0.0.0.0'.
+131026 14:19:10 [Note] Event Scheduler: Loaded 0 events
+131026 14:19:10 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131026 15:25:32 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131026 15:25:32 [Note] Event Scheduler: Purging the queue. 0 events
+131026 15:25:32  InnoDB: Starting shutdown...
+131026 15:25:33  InnoDB: Shutdown completed; log sequence number 130675751
+131026 15:25:33 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131026 15:25:33 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131026 15:25:45 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131026 15:25:45 InnoDB: The InnoDB memory heap is disabled
+131026 15:25:45 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131026 15:25:45 InnoDB: Compressed tables use zlib 1.2.6
+131026 15:25:45 InnoDB: Initializing buffer pool, size = 16.0M
+131026 15:25:45 InnoDB: Completed initialization of buffer pool
+131026 15:25:45 InnoDB: highest supported file format is Barracuda.
+131026 15:25:45  InnoDB: Waiting for the background threads to start
+131026 15:25:46 InnoDB: 1.1.8 started; log sequence number 130675751
+131026 15:25:46 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131026 15:25:46 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131026 15:25:46 [Note] Server socket created on IP: '0.0.0.0'.
+131026 15:25:46 [Note] Event Scheduler: Loaded 0 events
+131026 15:25:46 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131027 12:06:36 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131027 12:06:36 [Note] Event Scheduler: Purging the queue. 0 events
+131027 12:06:36  InnoDB: Starting shutdown...
+131027 12:06:37  InnoDB: Shutdown completed; log sequence number 130702027
+131027 12:06:37 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131027 12:06:37 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131027 12:06:49 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131027 12:06:49 InnoDB: The InnoDB memory heap is disabled
+131027 12:06:49 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131027 12:06:49 InnoDB: Compressed tables use zlib 1.2.6
+131027 12:06:49 InnoDB: Initializing buffer pool, size = 16.0M
+131027 12:06:49 InnoDB: Completed initialization of buffer pool
+131027 12:06:49 InnoDB: highest supported file format is Barracuda.
+131027 12:06:49  InnoDB: Waiting for the background threads to start
+131027 12:06:50 InnoDB: 1.1.8 started; log sequence number 130702027
+131027 12:06:50 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131027 12:06:50 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131027 12:06:50 [Note] Server socket created on IP: '0.0.0.0'.
+131027 12:06:51 [Note] Event Scheduler: Loaded 0 events
+131027 12:06:51 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131027 12:18:47 [Warning] IP address '58.221.45.160' could not be resolved: Name or service not known
+131027 12:22:56 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131027 12:22:56 [Note] Event Scheduler: Purging the queue. 0 events
+131027 12:22:56  InnoDB: Starting shutdown...
+131027 12:22:56  InnoDB: Shutdown completed; log sequence number 130702027
+131027 12:22:56 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131027 12:22:56 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131027 12:23:04 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131027 12:23:04 InnoDB: The InnoDB memory heap is disabled
+131027 12:23:04 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131027 12:23:04 InnoDB: Compressed tables use zlib 1.2.6
+131027 12:23:04 InnoDB: Initializing buffer pool, size = 16.0M
+131027 12:23:04 InnoDB: Completed initialization of buffer pool
+131027 12:23:04 InnoDB: highest supported file format is Barracuda.
+131027 12:23:04  InnoDB: Waiting for the background threads to start
+131027 12:23:05 InnoDB: 1.1.8 started; log sequence number 130702027
+131027 12:23:05 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131027 12:23:05 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131027 12:23:05 [Note] Server socket created on IP: '0.0.0.0'.
+131027 12:23:05 [Note] Event Scheduler: Loaded 0 events
+131027 12:23:05 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131027 14:30:10 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131027 14:30:10 [Note] Event Scheduler: Purging the queue. 0 events
+131027 14:30:10  InnoDB: Starting shutdown...
+131027 14:30:11  InnoDB: Shutdown completed; log sequence number 130708873
+131027 14:30:11 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131027 14:30:11 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131027 14:30:19 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131027 14:30:19 InnoDB: The InnoDB memory heap is disabled
+131027 14:30:19 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131027 14:30:19 InnoDB: Compressed tables use zlib 1.2.6
+131027 14:30:19 InnoDB: Initializing buffer pool, size = 16.0M
+131027 14:30:19 InnoDB: Completed initialization of buffer pool
+131027 14:30:19 InnoDB: highest supported file format is Barracuda.
+131027 14:30:19  InnoDB: Waiting for the background threads to start
+131027 14:30:20 InnoDB: 1.1.8 started; log sequence number 130708873
+131027 14:30:20 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131027 14:30:20 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131027 14:30:20 [Note] Server socket created on IP: '0.0.0.0'.
+131027 14:30:20 [Note] Event Scheduler: Loaded 0 events
+131027 14:30:20 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131028  7:46:58 [Warning] IP address '58.221.60.165' could not be resolved: Name or service not known
+131028 16:37:21 [Warning] IP address '211.103.158.72' could not be resolved: Name or service not known
+131028 21:04:03 [Warning] IP address '61.139.44.69' could not be resolved: Name or service not known
+131031  0:01:13 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131031  0:01:13 [Note] Event Scheduler: Purging the queue. 0 events
+131031  0:01:13  InnoDB: Starting shutdown...
+131031  0:01:14  InnoDB: Shutdown completed; log sequence number 145806655
+131031  0:01:14 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131031 00:01:15 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131031 00:01:27 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131031  0:01:27 InnoDB: The InnoDB memory heap is disabled
+131031  0:01:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131031  0:01:27 InnoDB: Compressed tables use zlib 1.2.6
+131031  0:01:27 InnoDB: Initializing buffer pool, size = 16.0M
+131031  0:01:27 InnoDB: Completed initialization of buffer pool
+131031  0:01:27 InnoDB: highest supported file format is Barracuda.
+131031  0:01:28  InnoDB: Waiting for the background threads to start
+131031  0:01:29 InnoDB: 1.1.8 started; log sequence number 145806655
+131031  0:01:29 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131031  0:01:29 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131031  0:01:29 [Note] Server socket created on IP: '0.0.0.0'.
+131031  0:01:29 [Note] Event Scheduler: Loaded 0 events
+131031  0:01:29 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131031  8:49:23 [Warning] IP address '58.221.60.167' could not be resolved: Name or service not known
+131101  7:34:43 [Warning] IP address '172.246.13.86' has been resolved to the host name '86.13-246-172.rdns.scalabledns.com', which resembles IPv4-address itself.
+131101 14:44:47 [Warning] IP address '221.7.12.154' could not be resolved: Name or service not known
+131101 18:26:18 [Warning] IP address '114.66.192.20' could not be resolved: Name or service not known
+131102  6:50:08 [Warning] IP address '222.186.30.173' could not be resolved: Name or service not known
+131103 23:10:51 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131103 23:10:51 [Note] Event Scheduler: Purging the queue. 0 events
+131103 23:10:51  InnoDB: Starting shutdown...
+131103 23:10:52  InnoDB: Shutdown completed; log sequence number 157485177
+131103 23:10:52 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131103 23:10:52 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131103 23:11:03 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131103 23:11:03 InnoDB: The InnoDB memory heap is disabled
+131103 23:11:03 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131103 23:11:03 InnoDB: Compressed tables use zlib 1.2.6
+131103 23:11:03 InnoDB: Initializing buffer pool, size = 16.0M
+131103 23:11:04 InnoDB: Completed initialization of buffer pool
+131103 23:11:04 InnoDB: highest supported file format is Barracuda.
+131103 23:11:04  InnoDB: Waiting for the background threads to start
+131103 23:11:05 InnoDB: 1.1.8 started; log sequence number 157485177
+131103 23:11:05 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131103 23:11:05 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131103 23:11:05 [Note] Server socket created on IP: '0.0.0.0'.
+131103 23:11:06 [Note] Event Scheduler: Loaded 0 events
+131103 23:11:06 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131105  0:00:08 [Warning] IP address '220.171.0.20' could not be resolved: Name or service not known
+131106  3:51:41 [Warning] IP address '202.100.85.201' could not be resolved: Name or service not known
+131107  8:13:11 [Warning] IP address '211.103.158.72' could not be resolved: Name or service not known
+131107 19:20:45 [Warning] IP address '59.15.184.75' could not be resolved: Name or service not known
+131108 15:37:29 [Warning] IP address '117.34.78.197' could not be resolved: Name or service not known
+131109  6:17:28 [Warning] IP address '59.175.238.93' has been resolved to the host name '93.238.175.59.broad.wh.hb.dynamic.163data.com.cn', which resembles IPv4-address itself.
+131110 12:42:27 [Warning] IP address '58.221.60.165' could not be resolved: Name or service not known
+131111 19:54:55 [Warning] IP address '106.37.190.138' has been resolved to the host name '138.190.37.106.static.bjtelecom.net', which resembles IPv4-address itself.
+131112 13:21:33 [Warning] IP address '218.10.19.203' could not be resolved: Name or service not known
+131117 03:06:13 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131117  3:06:15 InnoDB: The InnoDB memory heap is disabled
+131117  3:06:15 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131117  3:06:15 InnoDB: Compressed tables use zlib 1.2.6
+131117  3:06:15 InnoDB: Initializing buffer pool, size = 16.0M
+131117  3:06:15 InnoDB: Completed initialization of buffer pool
+131117  3:06:15 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+131117  3:06:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Last MySQL binlog file position 0 2944469, file name ./mysql-bin.000020
+131117  3:06:18  InnoDB: Waiting for the background threads to start
+131117  3:06:20 InnoDB: 1.1.8 started; log sequence number 207359931
+131117  3:06:20 [Note] Recovering after a crash using mysql-bin
+131117  3:06:20 [Note] Starting crash recovery...
+131117  3:06:20 [Note] Crash recovery finished.
+131117  3:06:21 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131117  3:06:21 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131117  3:06:21 [Note] Server socket created on IP: '0.0.0.0'.
+131117  3:06:22 [Note] Event Scheduler: Loaded 0 events
+131117  3:06:22 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131117 23:30:12 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131117 23:30:12 [Note] Event Scheduler: Purging the queue. 0 events
+131117 23:30:12  InnoDB: Starting shutdown...
+131117 23:30:13  InnoDB: Shutdown completed; log sequence number 211069909
+131117 23:30:13 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131117 23:30:13 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131117 23:30:22 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131117 23:30:23 InnoDB: The InnoDB memory heap is disabled
+131117 23:30:23 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131117 23:30:23 InnoDB: Compressed tables use zlib 1.2.6
+131117 23:30:23 InnoDB: Initializing buffer pool, size = 16.0M
+131117 23:30:23 InnoDB: Completed initialization of buffer pool
+131117 23:30:23 InnoDB: highest supported file format is Barracuda.
+131117 23:30:24  InnoDB: Waiting for the background threads to start
+131117 23:30:25 InnoDB: 1.1.8 started; log sequence number 211069909
+131117 23:30:25 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131117 23:30:25 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131117 23:30:25 [Note] Server socket created on IP: '0.0.0.0'.
+131117 23:30:25 [Note] Event Scheduler: Loaded 0 events
+131117 23:30:25 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131118  9:26:47 [Warning] IP address '82.221.105.6' could not be resolved: Name or service not known
+131118 12:59:46 [Warning] IP address '221.7.12.154' could not be resolved: Name or service not known
+131121  5:25:10 [Warning] IP address '61.187.251.207' could not be resolved: Name or service not known
+131121  9:52:10 [Warning] IP address '117.34.78.197' could not be resolved: Name or service not known
+131125 17:27:10 [Warning] IP address '202.100.85.201' could not be resolved: Name or service not known
+131126  9:34:54 [Warning] IP address '122.81.247.246' could not be resolved: Name or service not known
+131126 23:41:50 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131126 23:41:50 [Note] Event Scheduler: Purging the queue. 0 events
+131126 23:41:50  InnoDB: Starting shutdown...
+131126 23:41:52  InnoDB: Shutdown completed; log sequence number 246968363
+131126 23:41:52 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131126 23:41:52 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131126 23:42:06 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131126 23:42:06 InnoDB: The InnoDB memory heap is disabled
+131126 23:42:06 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131126 23:42:06 InnoDB: Compressed tables use zlib 1.2.6
+131126 23:42:06 InnoDB: Initializing buffer pool, size = 16.0M
+131126 23:42:06 InnoDB: Completed initialization of buffer pool
+131126 23:42:06 InnoDB: highest supported file format is Barracuda.
+131126 23:42:07  InnoDB: Waiting for the background threads to start
+131126 23:42:08 InnoDB: 1.1.8 started; log sequence number 246968363
+131126 23:42:08 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131126 23:42:08 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131126 23:42:08 [Note] Server socket created on IP: '0.0.0.0'.
+131126 23:42:08 [Note] Event Scheduler: Loaded 0 events
+131126 23:42:08 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131127  6:43:40 [Warning] IP address '210.14.144.146' could not be resolved: Name or service not known
+131127 21:53:45 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131127 21:53:45 [Note] Event Scheduler: Purging the queue. 0 events
+131127 21:53:46  InnoDB: Starting shutdown...
+131127 21:53:47  InnoDB: Shutdown completed; log sequence number 250754839
+131127 21:53:47 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131127 21:53:47 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131127 21:53:58 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131127 21:53:58 InnoDB: The InnoDB memory heap is disabled
+131127 21:53:58 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131127 21:53:58 InnoDB: Compressed tables use zlib 1.2.6
+131127 21:53:58 InnoDB: Initializing buffer pool, size = 16.0M
+131127 21:53:58 InnoDB: Completed initialization of buffer pool
+131127 21:53:58 InnoDB: highest supported file format is Barracuda.
+131127 21:53:59  InnoDB: Waiting for the background threads to start
+131127 21:54:00 InnoDB: 1.1.8 started; log sequence number 250754839
+131127 21:54:00 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131127 21:54:00 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131127 21:54:00 [Note] Server socket created on IP: '0.0.0.0'.
+131127 21:54:00 [Note] Event Scheduler: Loaded 0 events
+131127 21:54:00 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131128  2:43:50 [Warning] IP address '222.186.52.68' could not be resolved: Name or service not known
+131128 21:59:12 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131128 21:59:12 [Note] Event Scheduler: Purging the queue. 0 events
+131128 21:59:12  InnoDB: Starting shutdown...
+131128 21:59:13  InnoDB: Shutdown completed; log sequence number 254661752
+131128 21:59:13 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131128 21:59:13 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131128 21:59:25 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131128 21:59:25 InnoDB: The InnoDB memory heap is disabled
+131128 21:59:25 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131128 21:59:25 InnoDB: Compressed tables use zlib 1.2.6
+131128 21:59:25 InnoDB: Initializing buffer pool, size = 16.0M
+131128 21:59:25 InnoDB: Completed initialization of buffer pool
+131128 21:59:25 InnoDB: highest supported file format is Barracuda.
+131128 21:59:25  InnoDB: Waiting for the background threads to start
+131128 21:59:26 InnoDB: 1.1.8 started; log sequence number 254661752
+131128 21:59:27 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131128 21:59:27 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131128 21:59:27 [Note] Server socket created on IP: '0.0.0.0'.
+131128 21:59:27 [Note] Event Scheduler: Loaded 0 events
+131128 21:59:27 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131129  7:03:41 [Warning] IP address '216.99.158.90' could not be resolved: Name or service not known
+131129 16:03:44 [Warning] IP address '222.186.52.68' could not be resolved: Name or service not known
+131130 11:09:31 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131130 11:09:31 [Note] Event Scheduler: Purging the queue. 0 events
+131130 11:09:31  InnoDB: Starting shutdown...
+131130 11:09:32  InnoDB: Shutdown completed; log sequence number 259295885
+131130 11:09:32 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131130 11:09:32 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131130 11:09:42 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131130 11:09:42 InnoDB: The InnoDB memory heap is disabled
+131130 11:09:42 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131130 11:09:42 InnoDB: Compressed tables use zlib 1.2.6
+131130 11:09:42 InnoDB: Initializing buffer pool, size = 16.0M
+131130 11:09:42 InnoDB: Completed initialization of buffer pool
+131130 11:09:42 InnoDB: highest supported file format is Barracuda.
+131130 11:09:43  InnoDB: Waiting for the background threads to start
+131130 11:09:44 InnoDB: 1.1.8 started; log sequence number 259295885
+131130 11:09:44 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131130 11:09:44 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131130 11:09:44 [Note] Server socket created on IP: '0.0.0.0'.
+131130 11:09:45 [Note] Event Scheduler: Loaded 0 events
+131130 11:09:45 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 15:26:40 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 15:26:40 [Note] Event Scheduler: Purging the queue. 0 events
+131203 15:26:40  InnoDB: Starting shutdown...
+131203 15:26:41  InnoDB: Shutdown completed; log sequence number 276161618
+131203 15:26:41 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 15:26:41 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 15:26:53 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 15:26:53 InnoDB: The InnoDB memory heap is disabled
+131203 15:26:53 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 15:26:53 InnoDB: Compressed tables use zlib 1.2.6
+131203 15:26:53 InnoDB: Initializing buffer pool, size = 16.0M
+131203 15:26:53 InnoDB: Completed initialization of buffer pool
+131203 15:26:53 InnoDB: highest supported file format is Barracuda.
+131203 15:26:53  InnoDB: Waiting for the background threads to start
+131203 15:26:54 InnoDB: 1.1.8 started; log sequence number 276161618
+131203 15:26:54 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 15:26:54 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 15:26:54 [Note] Server socket created on IP: '0.0.0.0'.
+131203 15:26:55 [Note] Event Scheduler: Loaded 0 events
+131203 15:26:55 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 15:28:53 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 15:28:53 [Note] Event Scheduler: Purging the queue. 0 events
+131203 15:28:53  InnoDB: Starting shutdown...
+131203 15:28:53  InnoDB: Shutdown completed; log sequence number 276161618
+131203 15:28:53 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 15:28:53 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 15:28:59 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 15:28:59 InnoDB: The InnoDB memory heap is disabled
+131203 15:28:59 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 15:28:59 InnoDB: Compressed tables use zlib 1.2.6
+131203 15:28:59 InnoDB: Initializing buffer pool, size = 16.0M
+131203 15:28:59 InnoDB: Completed initialization of buffer pool
+131203 15:28:59 InnoDB: highest supported file format is Barracuda.
+131203 15:28:59  InnoDB: Waiting for the background threads to start
+131203 15:29:00 InnoDB: 1.1.8 started; log sequence number 276161618
+131203 15:29:00 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 15:29:00 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 15:29:00 [Note] Server socket created on IP: '0.0.0.0'.
+131203 15:29:00 [Note] Event Scheduler: Loaded 0 events
+131203 15:29:00 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 15:34:40 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 15:34:40 [Note] Event Scheduler: Purging the queue. 0 events
+131203 15:34:40  InnoDB: Starting shutdown...
+131203 15:34:41  InnoDB: Shutdown completed; log sequence number 276161618
+131203 15:34:41 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 15:34:41 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 15:34:47 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 15:34:47 InnoDB: The InnoDB memory heap is disabled
+131203 15:34:47 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 15:34:47 InnoDB: Compressed tables use zlib 1.2.6
+131203 15:34:47 InnoDB: Initializing buffer pool, size = 16.0M
+131203 15:34:47 InnoDB: Completed initialization of buffer pool
+131203 15:34:47 InnoDB: highest supported file format is Barracuda.
+131203 15:34:47  InnoDB: Waiting for the background threads to start
+131203 15:34:48 InnoDB: 1.1.8 started; log sequence number 276161618
+131203 15:34:48 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 15:34:48 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 15:34:48 [Note] Server socket created on IP: '0.0.0.0'.
+131203 15:34:48 [Note] Event Scheduler: Loaded 0 events
+131203 15:34:48 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 15:39:19 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 15:39:19 [Note] Event Scheduler: Purging the queue. 0 events
+131203 15:39:19  InnoDB: Starting shutdown...
+131203 15:39:20  InnoDB: Shutdown completed; log sequence number 276161618
+131203 15:39:20 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 15:39:20 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 15:39:26 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 15:39:26 InnoDB: The InnoDB memory heap is disabled
+131203 15:39:26 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 15:39:26 InnoDB: Compressed tables use zlib 1.2.6
+131203 15:39:26 InnoDB: Initializing buffer pool, size = 16.0M
+131203 15:39:26 InnoDB: Completed initialization of buffer pool
+131203 15:39:26 InnoDB: highest supported file format is Barracuda.
+131203 15:39:26  InnoDB: Waiting for the background threads to start
+131203 15:39:27 InnoDB: 1.1.8 started; log sequence number 276161618
+131203 15:39:27 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 15:39:27 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 15:39:27 [Note] Server socket created on IP: '0.0.0.0'.
+131203 15:39:27 [Note] Event Scheduler: Loaded 0 events
+131203 15:39:27 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 15:43:08 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 15:43:08 [Note] Event Scheduler: Purging the queue. 0 events
+131203 15:43:08  InnoDB: Starting shutdown...
+131203 15:43:09  InnoDB: Shutdown completed; log sequence number 276161618
+131203 15:43:09 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 15:43:09 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 15:43:15 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 15:43:15 InnoDB: The InnoDB memory heap is disabled
+131203 15:43:15 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 15:43:15 InnoDB: Compressed tables use zlib 1.2.6
+131203 15:43:15 InnoDB: Initializing buffer pool, size = 16.0M
+131203 15:43:15 InnoDB: Completed initialization of buffer pool
+131203 15:43:15 InnoDB: highest supported file format is Barracuda.
+131203 15:43:15  InnoDB: Waiting for the background threads to start
+131203 15:43:16 InnoDB: 1.1.8 started; log sequence number 276161618
+131203 15:43:16 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 15:43:16 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 15:43:16 [Note] Server socket created on IP: '0.0.0.0'.
+131203 15:43:16 [Note] Event Scheduler: Loaded 0 events
+131203 15:43:16 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131203 17:16:14 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131203 17:16:14 [Note] Event Scheduler: Purging the queue. 0 events
+131203 17:16:14  InnoDB: Starting shutdown...
+131203 17:16:15  InnoDB: Shutdown completed; log sequence number 276274005
+131203 17:16:15 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131203 17:16:15 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131203 17:16:21 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131203 17:16:21 InnoDB: The InnoDB memory heap is disabled
+131203 17:16:21 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131203 17:16:21 InnoDB: Compressed tables use zlib 1.2.6
+131203 17:16:21 InnoDB: Initializing buffer pool, size = 16.0M
+131203 17:16:21 InnoDB: Completed initialization of buffer pool
+131203 17:16:21 InnoDB: highest supported file format is Barracuda.
+131203 17:16:21  InnoDB: Waiting for the background threads to start
+131203 17:16:22 InnoDB: 1.1.8 started; log sequence number 276274005
+131203 17:16:22 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131203 17:16:22 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131203 17:16:22 [Note] Server socket created on IP: '0.0.0.0'.
+131203 17:16:22 [Note] Event Scheduler: Loaded 0 events
+131203 17:16:22 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131204 11:10:05 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131204 11:10:05 [Note] Event Scheduler: Purging the queue. 0 events
+131204 11:10:05  InnoDB: Starting shutdown...
+131204 11:10:05  InnoDB: Shutdown completed; log sequence number 276274005
+131204 11:10:05 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131204 11:10:05 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131204 11:10:16 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131204 11:10:16 InnoDB: The InnoDB memory heap is disabled
+131204 11:10:16 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131204 11:10:16 InnoDB: Compressed tables use zlib 1.2.6
+131204 11:10:16 InnoDB: Initializing buffer pool, size = 16.0M
+131204 11:10:16 InnoDB: Completed initialization of buffer pool
+131204 11:10:16 InnoDB: highest supported file format is Barracuda.
+131204 11:10:17  InnoDB: Waiting for the background threads to start
+131204 11:10:18 InnoDB: 1.1.8 started; log sequence number 276274005
+131204 11:10:18 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131204 11:10:18 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131204 11:10:18 [Note] Server socket created on IP: '0.0.0.0'.
+131204 11:10:18 [Note] Event Scheduler: Loaded 0 events
+131204 11:10:18 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131206  0:23:11 [Warning] IP address '202.100.85.201' could not be resolved: Name or service not known
+131206 20:56:32 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131206 20:56:32 [Note] Event Scheduler: Purging the queue. 0 events
+131206 20:56:32  InnoDB: Starting shutdown...
+131206 20:56:34  InnoDB: Shutdown completed; log sequence number 290410356
+131206 20:56:34 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131206 20:56:34 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131206 20:56:43 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131206 20:56:43 InnoDB: The InnoDB memory heap is disabled
+131206 20:56:43 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131206 20:56:43 InnoDB: Compressed tables use zlib 1.2.6
+131206 20:56:43 InnoDB: Initializing buffer pool, size = 16.0M
+131206 20:56:43 InnoDB: Completed initialization of buffer pool
+131206 20:56:43 InnoDB: highest supported file format is Barracuda.
+131206 20:56:43  InnoDB: Waiting for the background threads to start
+131206 20:56:44 InnoDB: 1.1.8 started; log sequence number 290410356
+131206 20:56:44 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131206 20:56:44 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131206 20:56:44 [Note] Server socket created on IP: '0.0.0.0'.
+131206 20:56:45 [Note] Event Scheduler: Loaded 0 events
+131206 20:56:45 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131206 21:13:32 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131206 21:13:32 [Note] Event Scheduler: Purging the queue. 0 events
+131206 21:13:32  InnoDB: Starting shutdown...
+131206 21:13:33  InnoDB: Shutdown completed; log sequence number 290414052
+131206 21:13:33 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131206 21:13:33 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131206 21:13:39 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131206 21:13:39 InnoDB: The InnoDB memory heap is disabled
+131206 21:13:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131206 21:13:39 InnoDB: Compressed tables use zlib 1.2.6
+131206 21:13:39 InnoDB: Initializing buffer pool, size = 16.0M
+131206 21:13:39 InnoDB: Completed initialization of buffer pool
+131206 21:13:39 InnoDB: highest supported file format is Barracuda.
+131206 21:13:39  InnoDB: Waiting for the background threads to start
+131206 21:13:40 InnoDB: 1.1.8 started; log sequence number 290414052
+131206 21:13:40 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131206 21:13:40 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131206 21:13:40 [Note] Server socket created on IP: '0.0.0.0'.
+131206 21:13:40 [Note] Event Scheduler: Loaded 0 events
+131206 21:13:40 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131208 15:07:33 [Warning] IP address '180.225.197.68' could not be resolved: Name or service not known
+131208 18:21:54 [Warning] IP address '122.224.97.19' could not be resolved: Name or service not known
+131209 14:13:49 [Warning] IP address '180.225.203.220' could not be resolved: Name or service not known
+131210 22:37:57 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131210 22:37:57 [Note] Event Scheduler: Purging the queue. 0 events
+131210 22:37:57  InnoDB: Starting shutdown...
+131210 22:37:58  InnoDB: Shutdown completed; log sequence number 310911037
+131210 22:37:58 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131210 22:37:59 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131210 22:38:09 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131210 22:38:09 InnoDB: The InnoDB memory heap is disabled
+131210 22:38:09 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131210 22:38:09 InnoDB: Compressed tables use zlib 1.2.6
+131210 22:38:09 InnoDB: Initializing buffer pool, size = 16.0M
+131210 22:38:09 InnoDB: Completed initialization of buffer pool
+131210 22:38:09 InnoDB: highest supported file format is Barracuda.
+131210 22:38:09  InnoDB: Waiting for the background threads to start
+131210 22:38:10 InnoDB: 1.1.8 started; log sequence number 310911037
+131210 22:38:11 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131210 22:38:11 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131210 22:38:11 [Note] Server socket created on IP: '0.0.0.0'.
+131210 22:38:11 [Note] Event Scheduler: Loaded 0 events
+131210 22:38:11 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131211  2:37:52 [Warning] IP address '49.88.161.195' could not be resolved: Name or service not known
+131211  6:01:11 [Warning] IP address '180.225.203.220' could not be resolved: Name or service not known
+131212  9:24:28 [Warning] IP address '60.171.215.146' could not be resolved: Name or service not known
+131215 12:41:39 [Warning] IP address '122.224.97.19' could not be resolved: Name or service not known
+131216  0:42:09 [Warning] IP address '82.221.102.179' could not be resolved: Name or service not known
+131217 22:12:55 [Warning] IP address '80.82.78.9' could not be resolved: Name or service not known
+131219 13:41:10 [Warning] IP address '180.225.197.68' could not be resolved: Name or service not known
+Killed
+131221 14:46:41 mysqld_safe Number of processes running now: 0
+131221 14:46:41 mysqld_safe mysqld restarted
+131221 14:46:42 InnoDB: The InnoDB memory heap is disabled
+131221 14:46:42 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131221 14:46:42 InnoDB: Compressed tables use zlib 1.2.6
+131221 14:46:42 InnoDB: Initializing buffer pool, size = 16.0M
+131221 14:46:42 InnoDB: Completed initialization of buffer pool
+131221 14:46:43 InnoDB: highest supported file format is Barracuda.
+InnoDB: Log scan progressed past the checkpoint lsn 364815432
+131221 14:46:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 364815974
+131221 14:46:43  InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percents: 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+InnoDB: Apply batch completed
+InnoDB: Last MySQL binlog file position 0 4748743, file name ./mysql-bin.000036
+131221 14:46:44  InnoDB: Waiting for the background threads to start
+131221 14:46:45 InnoDB: 1.1.8 started; log sequence number 364815974
+131221 14:46:45 [Note] Recovering after a crash using mysql-bin
+131221 14:46:45 [Note] Starting crash recovery...
+131221 14:46:45 [Note] Crash recovery finished.
+131221 14:46:45 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131221 14:46:45 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131221 14:46:45 [Note] Server socket created on IP: '0.0.0.0'.
+131221 14:46:46 [Note] Event Scheduler: Loaded 0 events
+131221 14:46:46 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131222 13:50:35 [Warning] IP address '58.221.60.153' could not be resolved: Name or service not known
+131222 19:18:55 [Warning] IP address '192.80.153.26' could not be resolved: Temporary failure in name resolution
+131223 18:28:11 [Warning] IP address '61.187.251.207' could not be resolved: Name or service not known
+131224 22:05:51 [Warning] IP address '180.225.203.220' could not be resolved: Name or service not known
+131225  0:15:33 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+131225  0:15:33 [Note] Event Scheduler: Purging the queue. 0 events
+131225  0:15:33  InnoDB: Starting shutdown...
+131225  0:15:34  InnoDB: Shutdown completed; log sequence number 379719882
+131225  0:15:34 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+131225 00:15:34 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+131225 00:15:42 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+131225  0:15:43 InnoDB: The InnoDB memory heap is disabled
+131225  0:15:43 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+131225  0:15:43 InnoDB: Compressed tables use zlib 1.2.6
+131225  0:15:43 InnoDB: Initializing buffer pool, size = 16.0M
+131225  0:15:43 InnoDB: Completed initialization of buffer pool
+131225  0:15:43 InnoDB: highest supported file format is Barracuda.
+131225  0:15:43  InnoDB: Waiting for the background threads to start
+131225  0:15:44 InnoDB: 1.1.8 started; log sequence number 379719882
+131225  0:15:44 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+131225  0:15:44 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+131225  0:15:44 [Note] Server socket created on IP: '0.0.0.0'.
+131225  0:15:44 [Note] Event Scheduler: Loaded 0 events
+131225  0:15:44 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+131225  6:00:24 [Warning] IP address '180.225.197.68' could not be resolved: Name or service not known
+131226  7:54:02 [Warning] IP address '103.5.5.162' could not be resolved: Name or service not known
+131229  1:21:13 [Warning] IP address '219.232.251.201' could not be resolved: Name or service not known
+131229  7:54:58 [Warning] IP address '180.225.203.220' could not be resolved: Name or service not known
+131230 12:44:24 [Warning] IP address '180.225.83.228' could not be resolved: Name or service not known
+131231  2:34:59 [Warning] IP address '117.34.72.148' could not be resolved: Name or service not known
+140101 13:21:55 [Warning] IP address '60.222.229.66' has been resolved to the host name '66.229.222.60.adsl-pool.sx.cn', which resembles IPv4-address itself.
+140102  4:02:36 [Warning] IP address '111.17.194.171' could not be resolved: Temporary failure in name resolution
+140105 12:01:49 [Warning] IP address '218.9.29.90' could not be resolved: Name or service not known
+140107  2:33:02 [Warning] IP address '60.214.117.162' could not be resolved: Name or service not known
+140109  1:38:23 [Warning] IP address '59.53.68.179' could not be resolved: Name or service not known
+140109 22:22:50 [Warning] IP address '61.187.251.207' could not be resolved: Name or service not known
+140111 12:02:11 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 12:02:11 [Note] Event Scheduler: Purging the queue. 0 events
+140111 12:02:11  InnoDB: Starting shutdown...
+140111 12:02:12  InnoDB: Shutdown completed; log sequence number 474031673
+140111 12:02:12 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 12:02:12 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 12:02:31 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 12:02:31 InnoDB: The InnoDB memory heap is disabled
+140111 12:02:31 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 12:02:31 InnoDB: Compressed tables use zlib 1.2.6
+140111 12:02:31 InnoDB: Initializing buffer pool, size = 16.0M
+140111 12:02:31 InnoDB: Completed initialization of buffer pool
+140111 12:02:31 InnoDB: highest supported file format is Barracuda.
+140111 12:02:31  InnoDB: Waiting for the background threads to start
+140111 12:02:32 InnoDB: 1.1.8 started; log sequence number 474031673
+140111 12:02:32 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 12:02:32 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 12:02:32 [Note] Server socket created on IP: '0.0.0.0'.
+140111 12:02:34 [Note] Event Scheduler: Loaded 0 events
+140111 12:02:34 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140111 12:11:50 [Warning] IP address '180.225.203.220' could not be resolved: Name or service not known
+140111 12:27:15 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 12:27:15 [Note] Event Scheduler: Purging the queue. 0 events
+140111 12:27:16  InnoDB: Starting shutdown...
+140111 12:27:17  InnoDB: Shutdown completed; log sequence number 474422013
+140111 12:27:17 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 12:27:17 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 12:27:28 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 12:27:28 InnoDB: The InnoDB memory heap is disabled
+140111 12:27:28 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 12:27:28 InnoDB: Compressed tables use zlib 1.2.6
+140111 12:27:28 InnoDB: Initializing buffer pool, size = 16.0M
+140111 12:27:28 InnoDB: Completed initialization of buffer pool
+140111 12:27:28 InnoDB: highest supported file format is Barracuda.
+140111 12:27:29  InnoDB: Waiting for the background threads to start
+140111 12:27:30 InnoDB: 1.1.8 started; log sequence number 474422013
+140111 12:27:30 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 12:27:30 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 12:27:30 [Note] Server socket created on IP: '0.0.0.0'.
+140111 12:27:30 [Note] Event Scheduler: Loaded 0 events
+140111 12:27:30 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140111 12:35:31 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 12:35:31 [Note] Event Scheduler: Purging the queue. 0 events
+140111 12:35:31  InnoDB: Starting shutdown...
+140111 12:35:33  InnoDB: Shutdown completed; log sequence number 474450339
+140111 12:35:33 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 12:35:33 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 12:35:42 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 12:35:42 InnoDB: The InnoDB memory heap is disabled
+140111 12:35:42 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 12:35:42 InnoDB: Compressed tables use zlib 1.2.6
+140111 12:35:42 InnoDB: Initializing buffer pool, size = 16.0M
+140111 12:35:42 InnoDB: Completed initialization of buffer pool
+140111 12:35:43 InnoDB: highest supported file format is Barracuda.
+140111 12:35:43  InnoDB: Waiting for the background threads to start
+140111 12:35:44 InnoDB: 1.1.8 started; log sequence number 474450339
+140111 12:35:44 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 12:35:44 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 12:35:44 [Note] Server socket created on IP: '0.0.0.0'.
+140111 12:35:44 [Note] Event Scheduler: Loaded 0 events
+140111 12:35:44 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140111 12:39:01 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 12:39:01 [Note] Event Scheduler: Purging the queue. 0 events
+140111 12:39:01  InnoDB: Starting shutdown...
+140111 12:39:03  InnoDB: Shutdown completed; log sequence number 474491634
+140111 12:39:03 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 12:39:03 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 12:39:04 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 12:39:04 InnoDB: The InnoDB memory heap is disabled
+140111 12:39:04 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 12:39:04 InnoDB: Compressed tables use zlib 1.2.6
+140111 12:39:04 InnoDB: Initializing buffer pool, size = 16.0M
+140111 12:39:04 InnoDB: Completed initialization of buffer pool
+140111 12:39:04 InnoDB: highest supported file format is Barracuda.
+140111 12:39:05  InnoDB: Waiting for the background threads to start
+140111 12:39:06 InnoDB: 1.1.8 started; log sequence number 474491634
+140111 12:39:06 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 12:39:06 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 12:39:06 [Note] Server socket created on IP: '0.0.0.0'.
+140111 12:39:06 [Note] Event Scheduler: Loaded 0 events
+140111 12:39:06 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140111 12:39:56 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 12:39:56 [Note] Event Scheduler: Purging the queue. 0 events
+140111 12:39:56  InnoDB: Starting shutdown...
+140111 12:39:56  InnoDB: Shutdown completed; log sequence number 474491634
+140111 12:39:56 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 12:39:56 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 12:40:08 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 12:40:08 InnoDB: The InnoDB memory heap is disabled
+140111 12:40:08 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 12:40:08 InnoDB: Compressed tables use zlib 1.2.6
+140111 12:40:08 InnoDB: Initializing buffer pool, size = 16.0M
+140111 12:40:08 InnoDB: Completed initialization of buffer pool
+140111 12:40:08 InnoDB: highest supported file format is Barracuda.
+140111 12:40:08  InnoDB: Waiting for the background threads to start
+140111 12:40:09 InnoDB: 1.1.8 started; log sequence number 474491634
+140111 12:40:09 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 12:40:09 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 12:40:09 [Note] Server socket created on IP: '0.0.0.0'.
+140111 12:40:09 [Note] Event Scheduler: Loaded 0 events
+140111 12:40:09 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /usr/local/mysql/var/
+Running threads: 0  Stack size: 196608
+Current locks:
+lock: 0x94db870:
+
+lock: 0x94da608:
+
+lock: 0x94d9068:
+
+lock: 0x94d8060:
+
+lock: 0x932ebf0:
+
+lock: 0x932d268:
+
+lock: 0x93297d0:
+
+lock: 0x9325ad0:
+
+lock: 0x931bdf0:
+
+lock: 0x9312d88:
+
+lock: 0x92f7678:
+
+lock: 0x92f59d0:
+
+lock: 0x94d03f8:
+
+lock: 0x94cd4d0:
+
+lock: 0x94b8b88:
+
+lock: 0x94b60c8:
+
+lock: 0x93b4970:
+
+lock: 0x94ccdf4:
+
+lock: 0x9414514:
+
+lock: 0x93b7068:
+
+lock: 0x93b6fd0:
+
+lock: 0x93f9a58:
+
+lock: 0x93f94e8:
+
+lock: 0x939b0a8:
+
+lock: 0x93c5200:
+
+lock: 0x9369e88:
+
+lock: 0x93883a8:
+
+lock: 0x9374930:
+
+lock: 0x937dce8:
+
+lock: 0x937ef30:
+
+lock: 0x936fbd0:
+
+lock: 0x9370430:
+
+lock: 0x935a4b8:
+
+lock: 0x934fb30:
+
+lock: 0x93530e0:
+
+lock: 0x9349518:
+
+lock: 0x92fa840:
+
+lock: 0x92f1098:
+
+lock: 0x92ec418:
+
+lock: 0x92e59e8:
+
+lock: 0x8951d40:
+
+lock: 0x89520c0:
+
+lock: 0x8952140:
+
+lock: 0x89521c0:
+
+lock: 0x8951dc0:
+
+lock: 0x8951e40:
+
+lock: 0x8951cc0:
+
+lock: 0x8951bc0:
+
+lock: 0x8951c40:
+
+lock: 0x8952240:
+
+lock: 0x8951ec0:
+
+lock: 0x8952040:
+
+lock: 0x8951fc0:
+
+lock: 0x8951f40:
+
+lock: 0x8951a40:
+
+lock: 0x8951ac0:
+
+lock: 0x8951b40:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:            18
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:             69
+reads:                  18
+
+
+handler status:
+read_key:         2595
+read_next:        5257
+read_rnd           785
+read_first:         67
+write:             863
+delete               1
+update:              4
+
+Table status:
+Opened tables:        107
+Open tables:           64
+Open files:            72
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 6811648
+Number of free chunks:			 65
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 9
+Space in mmapped regions:		 28540928
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 0
+Total allocated space:			 5882400
+Total free space:			 929248
+Top-most, releasable space:		 667184
+Estimated memory (with thread stack):    35352576
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+140111 14:37:55 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140111 14:37:55 [Note] Event Scheduler: Purging the queue. 0 events
+140111 14:37:55  InnoDB: Starting shutdown...
+140111 14:37:55  InnoDB: Shutdown completed; log sequence number 474514565
+140111 14:37:55 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140111 14:37:55 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140111 15:38:28 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140111 15:38:28 InnoDB: The InnoDB memory heap is disabled
+140111 15:38:28 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140111 15:38:28 InnoDB: Compressed tables use zlib 1.2.6
+140111 15:38:28 InnoDB: Initializing buffer pool, size = 16.0M
+140111 15:38:28 InnoDB: Completed initialization of buffer pool
+140111 15:38:28 InnoDB: highest supported file format is Barracuda.
+140111 15:38:28  InnoDB: Waiting for the background threads to start
+140111 15:38:29 InnoDB: 1.1.8 started; log sequence number 474514565
+140111 15:38:29 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140111 15:38:29 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140111 15:38:29 [Note] Server socket created on IP: '0.0.0.0'.
+140111 15:38:29 [Note] Event Scheduler: Loaded 0 events
+140111 15:38:29 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140113 11:22:43 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140113 11:22:43 [Note] Event Scheduler: Purging the queue. 0 events
+140113 11:22:43  InnoDB: Starting shutdown...
+140113 11:22:43  InnoDB: Shutdown completed; log sequence number 474514565
+140113 11:22:43 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140113 11:22:43 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140113 11:22:56 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140113 11:22:56 InnoDB: The InnoDB memory heap is disabled
+140113 11:22:56 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140113 11:22:56 InnoDB: Compressed tables use zlib 1.2.6
+140113 11:22:56 InnoDB: Initializing buffer pool, size = 16.0M
+140113 11:22:56 InnoDB: Completed initialization of buffer pool
+140113 11:22:56 InnoDB: highest supported file format is Barracuda.
+140113 11:22:56  InnoDB: Waiting for the background threads to start
+140113 11:22:57 InnoDB: 1.1.8 started; log sequence number 474514565
+140113 11:22:57 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140113 11:22:57 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140113 11:22:57 [Note] Server socket created on IP: '0.0.0.0'.
+140113 11:22:58 [Note] Event Scheduler: Loaded 0 events
+140113 11:22:58 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140113 19:28:45 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140113 19:28:45 [Note] Event Scheduler: Purging the queue. 0 events
+140113 19:28:45  InnoDB: Starting shutdown...
+140113 19:28:45  InnoDB: Shutdown completed; log sequence number 474514565
+140113 19:28:46 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140113 19:28:46 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140114 11:09:10 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140114 11:09:10 InnoDB: The InnoDB memory heap is disabled
+140114 11:09:10 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140114 11:09:10 InnoDB: Compressed tables use zlib 1.2.6
+140114 11:09:10 InnoDB: Initializing buffer pool, size = 16.0M
+140114 11:09:10 InnoDB: Completed initialization of buffer pool
+140114 11:09:10 InnoDB: highest supported file format is Barracuda.
+140114 11:09:11  InnoDB: Waiting for the background threads to start
+140114 11:09:12 InnoDB: 1.1.8 started; log sequence number 474514565
+140114 11:09:12 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140114 11:09:12 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140114 11:09:12 [Note] Server socket created on IP: '0.0.0.0'.
+140114 11:09:12 [Note] Event Scheduler: Loaded 0 events
+140114 11:09:12 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140114 11:29:24 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140114 11:29:24 [Note] Event Scheduler: Purging the queue. 0 events
+140114 11:29:24  InnoDB: Starting shutdown...
+140114 11:29:24  InnoDB: Shutdown completed; log sequence number 474514565
+140114 11:29:24 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140114 11:29:24 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140114 11:54:39 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140114 11:54:39 InnoDB: The InnoDB memory heap is disabled
+140114 11:54:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140114 11:54:39 InnoDB: Compressed tables use zlib 1.2.6
+140114 11:54:39 InnoDB: Initializing buffer pool, size = 16.0M
+140114 11:54:39 InnoDB: Completed initialization of buffer pool
+140114 11:54:39 InnoDB: highest supported file format is Barracuda.
+140114 11:54:39  InnoDB: Waiting for the background threads to start
+140114 11:54:40 InnoDB: 1.1.8 started; log sequence number 474514565
+140114 11:54:40 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140114 11:54:40 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140114 11:54:40 [Note] Server socket created on IP: '0.0.0.0'.
+140114 11:54:40 [Note] Event Scheduler: Loaded 0 events
+140114 11:54:40 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+140114 17:17:03 [Warning] IP address '218.9.29.90' could not be resolved: Name or service not known
+140114 23:59:49 [Warning] IP address '180.225.197.68' could not be resolved: Name or service not known
+140115  4:59:53 [Warning] IP address '117.41.185.125' could not be resolved: Name or service not known
+140115 11:41:22 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+140115 11:41:22 [Note] Event Scheduler: Purging the queue. 0 events
+140115 11:41:23  InnoDB: Starting shutdown...
+140115 11:41:23  InnoDB: Shutdown completed; log sequence number 474514565
+140115 11:41:23 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+140115 11:41:23 mysqld_safe mysqld from pid file /usr/local/mysql/var/server.pid ended
+140115 11:41:37 mysqld_safe Starting mysqld daemon with databases from /usr/local/mysql/var
+140115 11:41:37 InnoDB: The InnoDB memory heap is disabled
+140115 11:41:37 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140115 11:41:37 InnoDB: Compressed tables use zlib 1.2.6
+140115 11:41:37 InnoDB: Initializing buffer pool, size = 16.0M
+140115 11:41:37 InnoDB: Completed initialization of buffer pool
+140115 11:41:37 InnoDB: highest supported file format is Barracuda.
+140115 11:41:38  InnoDB: Waiting for the background threads to start
+140115 11:41:39 InnoDB: 1.1.8 started; log sequence number 474514565
+140115 11:41:39 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+140115 11:41:39 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+140115 11:41:39 [Note] Server socket created on IP: '0.0.0.0'.
+140115 11:41:39 [Note] Event Scheduler: Loaded 0 events
+140115 11:41:39 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.28-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
